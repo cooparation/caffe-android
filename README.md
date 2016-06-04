@@ -1,3 +1,7 @@
+Caffe-Android
+==============
+This is just the project for my learning, which is cloned from the poject named with Caffe-Android-Lib:: https://github.com/sh1r0/caffe-android-lib.git
+
 Caffe-Android-Lib
 ===============
 ## Goal
